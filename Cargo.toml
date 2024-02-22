@@ -1,0 +1,9 @@
+[package]
+name = "nextgen"
+version = "0.0.0"
+edition = "2021"
+description = "NextGen: Empowering the future with cutting-edge AI."
+license = "Apache-2.0"
+keywords = ["rust",'nextgen',"next-gen","generative-ai","ai"]
+
+[dependencies]
